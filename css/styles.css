@@ -1,0 +1,40 @@
+.container {
+ background-image: url('../images/bgggg.jpg');
+}
+h1 {
+font-size: 50px;
+color: blue;
+text-align: center;
+text-decoration: underline;
+font-family: fantasy;
+}
+img {
+float: right;
+border: 2px solid red;
+padding: 6px;
+margin: 20px;
+background-color: yellow;
+}
+
+padding-top: 170px;
+font-family: serif;
+}
+
+h3 {
+font-family: monospace;
+color: pink;
+}
+
+.navbar h3 {
+color: white;
+font-family: inherit;
+font-size: 50px;
+padding-left: 40px;
+}
+.col-xs-4 {
+text-align: right;
+}
+
+.game {
+display: none;
+}
