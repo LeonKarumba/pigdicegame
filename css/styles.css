@@ -24,13 +24,6 @@ h3 {
 font-family: monospace;
 color: pink;
 }
-
-.navbar h3 {
-color: white;
-font-family: inherit;
-font-size: 50px;
-padding-left: 40px;
-}
 .col-xs-4 {
 text-align: right;
 }
